@@ -88,7 +88,7 @@ end
 function Emotes()
     MenuData.CloseAll()
     local elements = {
-        {label = '- PRZERWIJ -', value = '0},
+        {label = '- PRZERWIJ -', value = '0'},
         {label = 'Tak Jest!', value = '1'},
     }
     MenuData.Open(
