@@ -22,7 +22,7 @@ end)
 function Main_Menu()
     MenuData.CloseAll()
     local elements = {
-        {label = "- PRZERWIJ -", value = "0"},
+        {label = '- PRZERWIJ -', value = '0'},
         {label = 'Animacje', value = 'anims', desc = 'Naciśnij [ENTER] aby otworzyć menu z Animacjami'},
         {label = 'Emotki', value = 'emotes', desc = 'Naciśnij [ENTER] aby otworzyć menu z Emotkami'},
     }
@@ -88,7 +88,7 @@ end
 function Emotes()
     MenuData.CloseAll()
     local elements = {
-        {label = "- PRZERWIJ -", value = "0"},
+        {label = '- PRZERWIJ -', value = '0},
         {label = 'Tak Jest!', value = '1'},
     }
     MenuData.Open(
