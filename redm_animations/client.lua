@@ -8,7 +8,7 @@ end)
 local Animations = {
 	{
 		items = {
-            {label = "1", value = 1, dict = "amb_work@world_human_box_pickup@1@male_a@stand_exit_withprop", anim = "exit_front"}
+			{label = "1", value = 1, dict = "amb_work@world_human_box_pickup@1@male_a@stand_exit_withprop", anim = "exit_front"}
 		}
 	}
 }
